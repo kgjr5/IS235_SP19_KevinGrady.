@@ -1,2 +1,2 @@
-# IS235_Sb19_KevinGrady.
+# IS235_SP19_KevinGrady.
 Class Project
